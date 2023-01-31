@@ -1,2 +1,38 @@
 
+img{   
+    width: 300px;
+    height: 200px;
+margin-bottom: 10px;
+}
+#Main-container{
+    background-color: rgb(12, 127, 133);
+   border: 1px solid; 
+   padding: 20px;
+   width: 300px;
+   margin-left: 40%;
+   /* box-shadow: 10px 10px 12px -2px  ; */
+   border-radius:8px
+  }
+  #second-container{
+    border: 1px solid; 
+     background-color: rgb(12, 127, 133); 
+     border-radius:4px
+ }
+#bullet{
+    list-style-type:none;
+    padding-left: 5px;
+}
+span{
+    font-weight: bold;   
+}
+#fact{
+    font-style: italic;   
+    margin-left: 10px;
+    margin-right: 10px;
+}
+#Descriaption{
+ margin-left: 10px;
+ margin-right: 10px;   
+}
+
 
